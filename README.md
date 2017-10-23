@@ -1,6 +1,10 @@
 # Регламент по разработке в Bpm’online CRM
 
 1. [Общие положения](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/Common.md)
+	* [Порядок выполнения задач](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/Common.md#Порядок-выполнения-задач-в-общем-виде-следующий)
+	* [Строго запрещено](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/Common.md#Строго-запрещено)
+	* [Строго запрещено в JS](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/Common.md#Строго-запрещено-в-js)
+	* [Используемые сокращения](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/Common.md#Сокращения)
 2. [Правила разработки](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/DevelopmentRules.md)
 	* [Создание/изменение объекта (таблицы) [EntitySchemaManager]](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/DevelopmentRules.md#Созданиеизменение-объекта-таблицы-entityschemamanager)
 	* [Создание/изменение клиентского модуля [ClientUnitSchemaManager]](https://github.com/almaznv/Siblion.Docs/blob/master/Regulations/DevelopmentRules.md#Созданиеизменение-клиентского-модуля-clientunitschemamanager)
